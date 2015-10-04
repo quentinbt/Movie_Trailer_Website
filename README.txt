@@ -30,7 +30,7 @@ Documentation
 
 	Running documentation locally:
 	1 - make sure python is installed, if not install it
-	2 - open python IDLE
+	2 - open python IDLE  
 	3 - launch entertainment_center.py
 	4 - your web browser will open a new web page
 	5 - the app is now ready to use
