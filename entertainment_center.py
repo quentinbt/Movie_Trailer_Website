@@ -8,30 +8,35 @@ import media
 toy_story = media.Movie("Toy Story",
                         "A story of a boy and his toy who play \
                         together",
+                        "1997",
                         "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",  # noqa
                         "https://www.youtube.com/watch?v=vwyZH85NQC4")
 
 
 avatar = media.Movie("Avatar",
                      "A marine on a alien planet",
+                     "2009",
                      "http://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg",  # noqa
                      "https://www.youtube.com/watch?v=cRdxXPV9GNQ")
 
 
 star_wars_4 = media.Movie("Star Wars: Episode IV - A New Hope",
                           "Luke Skywalker to the rescue, or?",
+                          "1977",
                           "http://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg",  # noqa
                           "https://www.youtube.com/watch?v=hb8kJ7F-_1s")  # noqa
 
 
 star_wars_6 = media.Movie("Star Wars: Episode VI - Return of the Jedi",
                            "Destruction of the Death Star",
+                           "1980",
                            "http://upload.wikimedia.org/wikipedia/en/b/b2/ReturnOfTheJediPoster1983.jpg",  # noqa
                            "www.youtube.com/watch?v=5UfA_aKBGMc")
 
 
 star_wars_5 = media.Movie("Star Wars: Episode V - Empire Strikes Back",
                           "The bumpy road to Jedi mastery",
+                          "1983",
                           "http://upload.wikimedia.org/wikipedia/en/3/3c/SW_-_Empire_Strikes_Back.jpg",  # noqa
                           "www.youtube.com/watch?v=PkEKIw0FU6Y")
 
@@ -40,6 +45,7 @@ gattaca = media.Movie("Gattaca",
                       "A genetically inferior man assumes the identity\
                       of a superior one in order to pursue his lifelon\
                       g dream of space travel",
+                      "1998",
                       "http://upload.wikimedia.org/wikipedia/en/b/bb/Gataca_Movie_Poster_B.jpg",  # noqa
                       "www.youtube.com/watch?v=ZppWok6SX88")
 
